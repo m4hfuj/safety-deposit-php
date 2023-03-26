@@ -27,5 +27,4 @@ if ($stmt->execute() === TRUE) {
 $stmt->close();
 $conn->close();
 
-
 ?>
